@@ -12,7 +12,10 @@ Tools and Technologies are used in this project:
 ●	Visual studio :  For development and testing.(streamlit)
 
 Screen shots of streamlit app:
-![image](https://github.com/user-attachments/assets/f545c185-a214-4872-90b3-b32fed444a4f)
-![image](https://github.com/user-attachments/assets/e64bea04-5647-48e1-b96b-eecd0e7bf8a7)
+![image](https://github.com/user-attachments/assets/047745ce-3ffa-41ba-8625-c03dec8464ad)
+![image](https://github.com/user-attachments/assets/3c2de3ee-22f2-45ef-abdb-133051b79ae9)
+
+
+
 
 Thank You!!!
